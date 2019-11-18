@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NeuralNet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NeuralNet_jar</output-path>
+    <root id="archive" name="NeuralNet.jar">
+      <element id="module-output" name="NeuralNet" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
